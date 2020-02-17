@@ -13,5 +13,7 @@ class Test {
 
     int i;
     int j;
+    int k;
+    
 
 }
